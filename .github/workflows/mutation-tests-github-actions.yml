@@ -27,7 +27,7 @@ jobs:
         run: go test -v ./...
 
       - name: Golang mutation testing
-        uses: rescDev/go-mutesting-action@1.0.0
+        uses: rescDev/go-mutesting-action
         with:
           targets: main.go cmd/
           disabled: structinit/remove
