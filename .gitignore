@@ -1,0 +1,12 @@
+# Default ignored files
+mutation-test/shelf/
+mutation-test/workspace.xml
+# Editor-based HTTP Client requests
+mutation-test/httpRequests/
+# Datasource local storage ignored files
+/mutation-test/dataSources/
+/mutation-test/dataSources.local.xml
+mutation-test/.idea/modules.xml
+mutation-test/.idea/mutation-test.iml
+mutation-test/.idea/vcs.xml
+mutation-test/.idea/workspace.xml
